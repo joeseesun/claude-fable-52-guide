@@ -51,6 +51,8 @@ Claude 应用和 Claude Code 的发布公告给出的默认档位为 `medium`。
 
 来源：[官方评测表及脚注](https://www.anthropic.com/claude/fable) · [发布公告中的评测说明](https://www.anthropic.com/claude-fable-and-mythos-5-2)
 
+**读系统卡时先对齐评测口径。** 查清被测的是 Fable 还是 Mythos、使用的 effort，以及结果来自 Anthropic 还是外部评估者。[Anthropic 系统卡（PDF）](https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card)
+
 ## 02 案例与复刻练习
 
 ### Fable 5.2 的案例
@@ -203,6 +205,6 @@ This independent, Chinese-first field guide is for people using Claude Code or t
 - **Test migrations in a new conversation.** Changing the system prompt, tools, or earlier messages can invalidate previously generated thinking blocks. Check your deployment's model identifier and Fast mode support. [Anthropic’s migration guide](https://platform.claude.com/docs/en/models/fable-5-2/migration-guide)
 - **Read the evidence in context.** Official figures reflect Anthropic’s evaluation conditions. Community costs are reported estimates. [Official model documentation](https://platform.claude.com/docs/en/models/fable-5-2/overview)
 
-Corrections with a primary source are welcome through [GitHub Issues](https://github.com/joeseesun/claude-fable-52-guide/issues). Maintained by [向阳乔木](https://github.com/joeseesun). Third-party cases and publications are credited at their sources. No reuse license has been assigned to this guide.
+Corrections with a primary source are welcome through [GitHub Issues](https://github.com/joeseesun/claude-fable-52-guide/issues). Maintained by [向阳乔木](https://github.com/joeseesun). Third-party cases and publications are credited at their sources. For reuse of this guide, contact the maintainer.
 
 纠错欢迎附上原始来源。[提交 Issue](https://github.com/joeseesun/claude-fable-52-guide/issues) · [向阳乔木](https://github.com/joeseesun)
